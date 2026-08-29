@@ -1,4 +1,4 @@
-const CACHE_NAME = 'idarat-ratbi-v2';
+const CACHE_NAME = 'money-talk-v1';
 const BASE = self.location.pathname.replace(/\/sw\.js$/, '/');
 const APP_SHELL = [
   BASE,
