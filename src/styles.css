@@ -69,7 +69,7 @@ button:active {
 .app main {
   width: min(100%, 540px);
   margin: 0 auto;
-  padding: calc(18px + env(safe-area-inset-top, 0px)) 16px calc(32px + env(safe-area-inset-bottom, 0px));
+  padding: calc(10px + env(safe-area-inset-top, 0px)) 16px calc(32px + env(safe-area-inset-bottom, 0px));
   min-height: 100%;
 }
 
